@@ -1,2 +1,2 @@
-export * from "./environment";
-export * from "./environment.types";
+export * from "../environment/environment";
+export * from "../environment/environment.types";
